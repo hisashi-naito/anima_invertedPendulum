@@ -1,7 +1,7 @@
 # anima_invertedPendulum
 
 Program was developed in msys2 mingw 64bit enviroment.
-For compiling, you should perform "make" using makefile as;
+For compiling, you should perform "make" using makefile as;<br>
 $ make
 If you use plane mingw environment, alternatively you should use the commane,
 $ mingw32-make
